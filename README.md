@@ -28,6 +28,20 @@ Based in **Moscow** and available for remote contract work. Native Russian; comf
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="58%">
+      <h3><a href="https://github.com/merrrn1/telegram-lead-intake-bot">Telegram Lead Intake Bot</a></h3>
+      <p>A configurable Python bot that answers FAQs, collects structured service requests, stores leads in CSV and notifies a manager.</p>
+      <p><strong>Built for pilots:</strong> business copy lives in JSON, secrets stay in environment variables, Docker is included and the core flow has automated tests.</p>
+    </td>
+    <td width="42%">
+      <p><strong>Python · Telegram Bot API · Docker · pytest</strong></p>
+      <p>Useful for service companies that want a small, auditable intake workflow before buying a full CRM or adding an LLM.</p>
+    </td>
+  </tr>
+</table>
+
 ### How I work
 
 1. Define one concrete deliverable and the acceptance check.
